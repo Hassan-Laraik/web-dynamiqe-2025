@@ -1,0 +1,9 @@
+.container{
+    width: 60%;
+    margin: 100px auto;
+}
+
+input[type="text" ]{
+    margin: 20px;
+    width: 200px;
+} 
